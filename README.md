@@ -1,6 +1,6 @@
 # Redux Saga workflow
 
-![Alt text](public/flowchart.png)
+<img src="public/flowchart.png" alt="flowchart" width="700"/>
 
 # Install
 
